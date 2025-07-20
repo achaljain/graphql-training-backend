@@ -2,6 +2,11 @@
 
 This is a GraphQL API for an e-commerce platform built with Node.js, TypeORM, and PostgreSQL.
 
+## Schema
+
+![Database Schema](./supabase-schema.png)
+
+
 ## Features
 
 - User authentication (register/login)
